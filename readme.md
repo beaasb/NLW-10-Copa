@@ -1,4 +1,4 @@
-# NLW #10 - Copa do Mundo
+<h1 align="center"> NLW #10 - Copa do Mundo </h1>
 
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
