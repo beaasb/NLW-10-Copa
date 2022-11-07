@@ -17,7 +17,7 @@
 
 Este projeto foi desenvolvido no evento exclusivo e gratuito, promovido pela [Rocketseat Education](https://github.com/rocketseat-education) para ensino de tecnologias WEB, em que criamos um calendário personalizado dos jogos da Copa 2022.
 
-_**Veja o resultado [clicando aqui](beaasb.github.io/NLW-10-Copa/)**_
+_**Veja o resultado [clicando aqui](https://beaasb.github.io/NLW-10-Copa/)**_
 
 
 ## 🚀 Tecnologias 
